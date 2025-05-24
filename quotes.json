@@ -1,384 +1,205 @@
 {
     "quotes": [
-        {
-          "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-          "author": "Nelson Mandela"
-        },
-        {
-          "text": "The way to get started is to quit talking and begin doing.",
-          "author": "Walt Disney"
-        },
-        {
-          "text": "Your time is limited, so don't waste it living someone else's life.",
-          "author": "Steve Jobs"
-        },
-        {
-          "text": "If life were predictable it would cease to be life, and be without flavor.",
-          "author": "Eleanor Roosevelt"
-        },
-        {
-          "text": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
-          "author": "Oprah Winfrey"
-        },
-        {
-          "text": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
-          "author": "James Cameron"
-        },
-        {
-          "text": "Life is what happens when you're busy making other plans.",
-          "author": "John Lennon"
-        },
-        {
-          "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-          "author": "Mother Teresa"
-        },
-        {
-          "text": "When you reach the end of your rope, tie a knot in it and hang on.",
-          "author": "Franklin D. Roosevelt"
-        },
-        {
-          "text": "Always remember that you are absolutely unique. Just like everyone else.",
-          "author": "Margaret Mead"
-        },
-        {
-          "text": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
-          "author": "Robert Louis Stevenson"
-        },
-        {
-          "text": "The future belongs to those who believe in the beauty of their dreams.",
-          "author": "Eleanor Roosevelt"
-        },
-        {
-          "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
-          "author": "Benjamin Franklin"
-        },
-        {
-          "text": "The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart.",
-          "author": "Helen Keller"
-        },
-        {
-          "text": "It is during our darkest moments that we must focus to see the light.",
-          "author": "Aristotle"
-        },
-        {
-          "text": "Whoever is happy will make others happy too.",
-          "author": "Anne Frank"
-        },
-        {
-          "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-          "author": "Ralph Waldo Emerson"
-        },
-        {
-          "text": "You will face many defeats in life, but never let yourself be defeated.",
-          "author": "Maya Angelou"
-        },
-        {
-          "text": "In the end, it's not the years in your life that count. It's the life in your years.",
-          "author": "Abraham Lincoln"
-        },
-        {
-          "text": "Never let the fear of striking out keep you from playing the game.",
-          "author": "Babe Ruth"
-        },
-        {
-          "text": "Life is either a daring adventure or nothing at all.",
-          "author": "Helen Keller"
-        },
-        {
-          "text": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
-          "author": "Thomas A. Edison"
-        },
-        {
-          "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-          "author": "Dr. Seuss"
-        },
-        {
-          "text": "Life is really simple, but we insist on making it complicated.",
-          "author": "Confucius"
-        },
-        {
-          "text": "The only impossible journey is the one you never begin.",
-          "author": "Tony Robbins"
-        },
-        {
-          "text": "In this life we cannot do great things. We can only do small things with great love.",
-          "author": "Mother Teresa"
-        },
-        {
-          "text": "Only a life lived for others is a life worthwhile.",
-          "author": "Albert Einstein"
-        },
-        {
-          "text": "The purpose of our lives is to be happy.",
-          "author": "Dalai Lama"
-        },
-        {
-          "text": "Life is what happens while you're busy making other plans.",
-          "author": "John Lennon"
-        },
-        {
-          "text": "You only live once, but if you do it right, once is enough.",
-          "author": "Mae West"
-        },
-        {
-          "text": "Never let the fear of striking out keep you from playing the game.",
-          "author": "Babe Ruth"
-        },
-        {
-          "text": "Money and success don't change people; they merely amplify what is already there.",
-          "author": "Will Smith"
-        },
-        {
-          "text": "Your time is limited, so don't waste it living someone else's life.",
-          "author": "Steve Jobs"
-        },
-        {
-          "text": "The journey of a thousand miles begins with one step.",
-          "author": "Lao Tzu"
-        },
-        {
-          "text": "That which does not kill us makes us stronger.",
-          "author": "Friedrich Nietzsche"
-        },
-        {
-          "text": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
-          "author": "Bernard M. Baruch"
-        },
-        {
-          "text": "We must be the change we wish to see in the world.",
-          "author": "Mahatma Gandhi"
-        },
-        {
-          "text": "Be yourself; everyone else is already taken.",
-          "author": "Oscar Wilde"
-        },
-        {
-          "text": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
-          "author": "Albert Einstein"
-        },
-        {
-          "text": "Be the change that you wish to see in the world.",
-          "author": "Mahatma Gandhi"
-        },
-        {
-          "text": "In three words I can sum up everything I've learned about life: it goes on.",
-          "author": "Robert Frost"
-        },
-        {
-          "text": "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
-          "author": "J.K. Rowling"
-        },
-        {
-          "text": "Don't walk in front of me... I may not follow. Don't walk behind me... I may not lead. Walk beside me... just be my friend.",
-          "author": "Albert Camus"
-        },
-        {
-          "text": "If you tell the truth, you don't have to remember anything.",
-          "author": "Mark Twain"
-        },
-        {
-          "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-          "author": "Maya Angelou"
-        },
-        {
-          "text": "A friend is someone who knows all about you and still loves you.",
-          "author": "Elbert Hubbard"
-        },
-        {
-          "text": "To live is the rarest thing in the world. Most people exist, that is all.",
-          "author": "Oscar Wilde"
-        },
-        {
-          "text": "Always forgive your enemies; nothing annoys them so much.",
-          "author": "Oscar Wilde"
-        },
-        {
-          "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
-          "author": "Mahatma Gandhi"
-        },
-        {
-          "text": "We accept the love we think we deserve.",
-          "author": "Stephen Chbosky"
-        },
-        {
-          "text": "Without music, life would be a mistake.",
-          "author": "Friedrich Nietzsche"
-        },
-        {
-          "text": "It is better to be hated for what you are than to be loved for what you are not.",
-          "author": "André Gide"
-        },
-        {
-          "text": "The unexamined life is not worth living.",
-          "author": "Socrates"
-        },
-        {
-          "text": "Turn your wounds into wisdom.",
-          "author": "Oprah Winfrey"
-        },
-        {
-          "text": "The only way to do great work is to love what you do.",
-          "author": "Steve Jobs"
-        },
-        {
-          "text": "If you can dream it, you can do it.",
-          "author": "Walt Disney"
-        },
-        {
-          "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-          "author": "Winston Churchill"
-        },
-        {
-          "text": "The future belongs to those who believe in the beauty of their dreams.",
-          "author": "Eleanor Roosevelt"
-        },
-        {
-          "text": "It does not matter how slowly you go as long as you do not stop.",
-          "author": "Confucius"
-        },
-        {
-          "text": "Everything you've ever wanted is on the other side of fear.",
-          "author": "George Addair"
-        },
-        {
-          "text": "Success is walking from failure to failure with no loss of enthusiasm.",
-          "author": "Winston Churchill"
-        },
-        {
-          "text": "Happiness is not something ready made. It comes from your own actions.",
-          "author": "Dalai Lama"
-        },
-        {
-          "text": "The only person you are destined to become is the person you decide to be.",
-          "author": "Ralph Waldo Emerson"
-        },
-        {
-          "text": "The best revenge is massive success.",
-          "author": "Frank Sinatra"
-        },
-        {
-          "text": "I find that the harder I work, the more luck I seem to have.",
-          "author": "Thomas Jefferson"
-        },
-        {
-          "text": "The only limit to our realization of tomorrow will be our doubts of today.",
-          "author": "Franklin D. Roosevelt"
-        },
-        {
-          "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-          "author": "Zig Ziglar"
-        },
-        {
-          "text": "Believe you can and you're halfway there.",
-          "author": "Theodore Roosevelt"
-        },
-        {
-          "text": "When you have a dream, you've got to grab it and never let go.",
-          "author": "Carol Burnett"
-        },
-        {
-          "text": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
-          "author": "Jimmy Dean"
-        },
-        {
-          "text": "Nothing is impossible. The word itself says 'I'm possible!'",
-          "author": "Audrey Hepburn"
-        },
-        {
-          "text": "There is nothing impossible to they who will try.",
-          "author": "Alexander the Great"
-        },
-        {
-          "text": "The bad news is time flies. The good news is you're the pilot.",
-          "author": "Michael Altshuler"
-        },
-        {
-          "text": "Life has got all those twists and turns. You've got to hold on tight and off you go.",
-          "author": "Nicole Kidman"
-        },
-        {
-          "text": "Keep your face always toward the sunshine, and shadows will fall behind you.",
-          "author": "Walt Whitman"
-        },
-        {
-          "text": "Be courageous. Challenge orthodoxy. Stand up for what you believe in. When you are in your rocking chair talking to your grandchildren many years from now, be sure you have a good story to tell.",
-          "author": "Amal Clooney"
-        },
-        {
-          "text": "You make a choice: continue living your life feeling muddled in this abyss of self-misunderstanding, or you find your identity independent of it. You draw your own box.",
-          "author": "Duchess Meghan"
-        },
-        {
-          "text": "I just want you to know that if you are out there and you are being really hard on yourself right now for something that has happened ... it's normal. That is what is going to happen to you in life. No one gets through unscathed. We are all going to have a few scratches on us. Please be kind to yourselves and stand up for yourself, please.",
-          "author": "Taylor Swift"
-        },
-        {
-          "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-          "author": "Winston Churchill"
-        },
-        {
-          "text": "You define your own life. Don't let other people write your script.",
-          "author": "Oprah Winfrey"
-        },
-        {
-          "text": "You are never too old to set another goal or to dream a new dream.",
-          "author": "Malala Yousafzai"
-        },
-        {
-          "text": "At the end of the day, whether or not those people are comfortable with how you're living your life doesn't matter. What matters is whether you're comfortable with it.",
-          "author": "Dr. Phil"
-        },
-        {
-          "text": "People tell you the world looks a certain way. Parents tell you how to think. Schools tell you how to think. TV. Religion. And then at a certain point, if you're lucky, you realize you can make up your own mind. Nobody sets the rules but you. You can design your own life.",
-          "author": "Carrie Ann Moss"
-        },
-        {
-          "text": "For me, becoming isn't about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey doesn't end.",
-          "author": "Michelle Obama"
-        },
-        {
-          "text": "Spread love everywhere you go.",
-          "author": "Mother Teresa"
-        },
-        {
-          "text": "Do not allow people to dim your shine because they are blinded. Tell them to put some sunglasses on.",
-          "author": "Lady Gaga"
-        },
-        {
-          "text": "If you make your internal life a priority, then everything else you need on the outside will be given to you and it will be extremely clear what the next step is.",
-          "author": "Gabrielle Bernstein"
-        },
-        {
-          "text": "You don't always need a plan. Sometimes you just need to breathe, trust, let go, and see what happens.",
-          "author": "Mandy Hale"
-        },
-        {
-          "text": "You can be everything. You can be the infinite amount of things that people are.",
-          "author": "Kesha"
-        },
-        {
-          "text": "What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.",
-          "author": "Ralph Waldo Emerson"
-        },
-        {
-          "text": "I don't know where the limit is, but I would like to go there.",
-          "author": "Eliud Kipchoge"
-        },
-        {
-          "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
-          "author": "Roald Dahl"
-        },
-        {
-          "text": "The moment you give up is the moment you let someone else win.",
-          "author": "Kobe Bryant"
-        },
-        {
-          "text": "I am not a product of my circumstances. I am a product of my decisions.",
-          "author": "Stephen Covey"
-        },
-        {
-          "text": "It's not about how hard you hit. It's about how hard you can get hit and keep moving forward.",
-          "author": "Rocky Balboa"
-        }
+      {
+        "author": "Jane Austen",
+        "quotes": [
+          "There is no charm equal to tenderness of heart.",
+          "Life seems but a quick succession of busy nothings.",
+          "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+          "Vanity and pride are different things, though the words are often used synonymously.",
+          "It isn't what we say or think that defines us, but what we do."
+        ]
+      },
+      {
+        "author": "Oscar Wilde",
+        "quotes": [
+          "Be yourself; everyone else is already taken.",
+          "To live is the rarest thing in the world. Most people exist, that is all.",
+          "Always forgive your enemies; nothing annoys them so much.",
+          "We are all in the gutter, but some of us are looking at the stars.",
+          "The truth is rarely pure and never simple."
+        ]
+      },
+      {
+        "author": "Mark Twain",
+        "quotes": [
+          "The secret of getting ahead is getting started.",
+          "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+          "Kindness is the language which the deaf can hear and the blind can see.",
+          "Get your facts first, then you can distort them as you please.",
+          "Courage is resistance to fear, mastery of fear, not absence of fear."
+        ]
+      },
+      {
+        "author": "Virginia Woolf",
+        "quotes": [
+          "Lock up your libraries if you like; but there is no gate, no lock, no bolt that you can set upon the freedom of my mind.",
+          "Books are the mirrors of the soul.",
+          "No need to hurry. No need to sparkle. No need to be anybody but oneself.",
+          "Arrange whatever pieces come your way.",
+          "For most of history, Anonymous was a woman."
+        ]
+      },
+      {
+        "author": "Friedrich Nietzsche",
+        "quotes": [
+          "That which does not kill us makes us stronger.",
+          "He who has a why to live can bear almost any how.",
+          "There are no facts, only interpretations.",
+          "Without music, life would be a mistake.",
+          "To live is to suffer, to survive is to find some meaning in the suffering."
+        ]
+      },
+      {
+        "author": "Emily Dickinson",
+        "quotes": [
+          "Hope is the thing with feathers that perches in the soul.",
+          "Forever is composed of nows.",
+          "Not knowing when the dawn will come, I open every door.",
+          "If I can stop one heart from breaking, I shall not live in vain.",
+          "Success is counted sweetest by those who ne'er succeed."
+        ]
+      },
+      {
+        "author": "Maya Angelou",
+        "quotes": [
+          "You will face many defeats in life, but never let yourself be defeated.",
+          "We may encounter many defeats but we must not be defeated.",
+          "Try to be a rainbow in someone's cloud.",
+          "Nothing will work unless you do.",
+          "If you don't like something, change it. If you can't change it, change your attitude."
+        ]
+      },
+      {
+        "author": "Albert Einstein",
+        "quotes": [
+          "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+          "Imagination is more important than knowledge.",
+          "Life is like riding a bicycle. To keep your balance you must keep moving.",
+          "I have no special talent. I am only passionately curious.",
+          "Anyone who has never made a mistake has never tried anything new."
+        ]
+      },
+      {
+        "author": "Confucius",
+        "quotes": [
+          "Life is really simple, but we insist on making it complicated.",
+          "It does not matter how slowly you go as long as you do not stop.",
+          "Our greatest glory is not in never falling, but in rising every time we fall.",
+          "Everything has beauty, but not everyone sees it.",
+          "When we see men of a contrary character, we should turn inwards and examine ourselves."
+        ]
+      },
+      {
+        "author": "Helen Keller",
+        "quotes": [
+          "The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart.",
+          "Life is either a daring adventure or nothing at all.",
+          "Keep your face to the sunshine and you cannot see a shadow.",
+          "Alone we can do so little; together we can do so much.",
+          "Optimism is the faith that leads to achievement."
+        ]
+      }
+        {
+      "author": "Winston Churchill",
+      "quotes": [
+        "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "To improve is to change; to be perfect is to change often.",
+        "If you're going through hell, keep going.",
+        "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.",
+        "Never, never, never give up."
+      ]
+    },
+    {
+      "author": "Ralph Waldo Emerson",
+      "quotes": [
+        "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "The only person you are destined to become is the person you decide to be.",
+        "Live in the sunshine, swim the sea, drink the wild air."
+      ]
+    },
+    {
+      "author": "Dr. Seuss",
+      "quotes": [
+        "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+        "Don't cry because it's over, smile because it happened.",
+        "Today you are You, that is truer than true. There is no one alive who is Youer than You.",
+        "Sometimes the questions are complicated and the answers are simple.",
+        "Why fit in when you were born to stand out?"
+      ]
+    },
+    {
+      "author": "Helen Keller",
+      "quotes": [
+        "Alone we can do so little; together we can do so much.",
+        "Optimism is the faith that leads to achievement.",
+        "Keep your face to the sunshine and you cannot see a shadow.",
+        "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened.",
+        "Life is either a daring adventure or nothing at all."
+      ]
+    },
+    {
+      "author": "Benjamin Franklin",
+      "quotes": [
+        "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+        "An investment in knowledge pays the best interest.",
+        "Well done is better than well said.",
+        "By failing to prepare, you are preparing to fail.",
+        "Energy and persistence conquer all things."
+      ]
+    },
+    {
+      "author": "Mahatma Gandhi",
+      "quotes": [
+        "Be the change that you wish to see in the world.",
+        "The best way to find yourself is to lose yourself in the service of others.",
+        "An eye for an eye will only make the whole world blind.",
+        "Happiness is when what you think, what you say, and what you do are in harmony.",
+        "Live as if you were to die tomorrow. Learn as if you were to live forever."
+      ]
+    },
+    {
+      "author": "Stephen King",
+      "quotes": [
+        "Get busy living or get busy dying.",
+        "Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.",
+        "Books are a uniquely portable magic.",
+        "The scariest moment is always just before you start.",
+        "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work."
+      ]
+    },
+    {
+      "author": "Nelson Mandela",
+      "quotes": [
+        "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "It always seems impossible until it’s done.",
+        "Education is the most powerful weapon which you can use to change the world.",
+        "I learned that courage was not the absence of fear, but the triumph over it.",
+        "A winner is a dreamer who never gives up."
+      ]
+    },
+    {
+      "author": "Dr. Seuss",
+      "quotes": [
+        "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+        "Sometimes you will never know the value of a moment until it becomes a memory.",
+        "From there to here, from here to there, funny things are everywhere.",
+        "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+        "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!"
+      ]
+    },
+    {
+      "author": "Mark Twain",
+      "quotes": [
+        "The secret of getting ahead is getting started.",
+        "Kindness is the language which the deaf can hear and the blind can see.",
+        "Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.",
+        "The man who does not read has no advantage over the man who cannot read.",
+        "Whenever you find yourself on the side of the majority, it is time to pause and reflect."
+      ]
+    }
     ]
-}
+  }
+  
