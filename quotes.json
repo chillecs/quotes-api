@@ -101,104 +101,104 @@
         ]
       },
       {
-      "author": "Winston Churchill",
-      "quotes": [
-        "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-        "To improve is to change; to be perfect is to change often.",
-        "If you're going through hell, keep going.",
-        "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.",
-        "Never, never, never give up."
-      ]
-    },
-    {
-      "author": "Ralph Waldo Emerson",
-      "quotes": [
-        "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-        "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-        "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-        "The only person you are destined to become is the person you decide to be.",
-        "Live in the sunshine, swim the sea, drink the wild air."
-      ]
-    },
-    {
-      "author": "Dr. Seuss",
-      "quotes": [
-        "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-        "Don't cry because it's over, smile because it happened.",
-        "Today you are You, that is truer than true. There is no one alive who is Youer than You.",
-        "Sometimes the questions are complicated and the answers are simple.",
-        "Why fit in when you were born to stand out?"
-      ]
-    },
-    {
-      "author": "Helen Keller",
-      "quotes": [
-        "Alone we can do so little; together we can do so much.",
-        "Optimism is the faith that leads to achievement.",
-        "Keep your face to the sunshine and you cannot see a shadow.",
-        "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened.",
-        "Life is either a daring adventure or nothing at all."
-      ]
-    },
-    {
-      "author": "Benjamin Franklin",
-      "quotes": [
-        "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
-        "An investment in knowledge pays the best interest.",
-        "Well done is better than well said.",
-        "By failing to prepare, you are preparing to fail.",
-        "Energy and persistence conquer all things."
-      ]
-    },
-    {
-      "author": "Mahatma Gandhi",
-      "quotes": [
-        "Be the change that you wish to see in the world.",
-        "The best way to find yourself is to lose yourself in the service of others.",
-        "An eye for an eye will only make the whole world blind.",
-        "Happiness is when what you think, what you say, and what you do are in harmony.",
-        "Live as if you were to die tomorrow. Learn as if you were to live forever."
-      ]
-    },
-    {
-      "author": "Stephen King",
-      "quotes": [
-        "Get busy living or get busy dying.",
-        "Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.",
-        "Books are a uniquely portable magic.",
-        "The scariest moment is always just before you start.",
-        "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work."
-      ]
-    },
-    {
-      "author": "Nelson Mandela",
-      "quotes": [
-        "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-        "It always seems impossible until it’s done.",
-        "Education is the most powerful weapon which you can use to change the world.",
-        "I learned that courage was not the absence of fear, but the triumph over it.",
-        "A winner is a dreamer who never gives up."
-      ]
-    },
-    {
-      "author": "Dr. Seuss",
-      "quotes": [
-        "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
-        "Sometimes you will never know the value of a moment until it becomes a memory.",
-        "From there to here, from here to there, funny things are everywhere.",
-        "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
-        "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!"
-      ]
-    },
-    {
-      "author": "Mark Twain",
-      "quotes": [
-        "The secret of getting ahead is getting started.",
-        "Kindness is the language which the deaf can hear and the blind can see.",
-        "Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.",
-        "The man who does not read has no advantage over the man who cannot read.",
-        "Whenever you find yourself on the side of the majority, it is time to pause and reflect."
-      ]
-    }
-]
+        "author": "Winston Churchill",
+        "quotes": [
+          "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+          "To improve is to change; to be perfect is to change often.",
+          "If you're going through hell, keep going.",
+          "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.",
+          "Never, never, never give up."
+        ]
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "quotes": [
+          "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+          "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+          "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+          "The only person you are destined to become is the person you decide to be.",
+          "Live in the sunshine, swim the sea, drink the wild air."
+        ]
+      },
+      {
+        "author": "Dr. Seuss",
+        "quotes": [
+          "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+          "Don't cry because it's over, smile because it happened.",
+          "Today you are You, that is truer than true. There is no one alive who is Youer than You.",
+          "Sometimes the questions are complicated and the answers are simple.",
+          "Why fit in when you were born to stand out?"
+        ]
+      },
+      {
+        "author": "Helen Keller",
+        "quotes": [
+          "Alone we can do so little; together we can do so much.",
+          "Optimism is the faith that leads to achievement.",
+          "Keep your face to the sunshine and you cannot see a shadow.",
+          "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened.",
+          "Life is either a daring adventure or nothing at all."
+        ]
+      },
+      {
+        "author": "Benjamin Franklin",
+        "quotes": [
+          "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+          "An investment in knowledge pays the best interest.",
+          "Well done is better than well said.",
+          "By failing to prepare, you are preparing to fail.",
+          "Energy and persistence conquer all things."
+        ]
+      },
+      {
+        "author": "Mahatma Gandhi",
+        "quotes": [
+          "Be the change that you wish to see in the world.",
+          "The best way to find yourself is to lose yourself in the service of others.",
+          "An eye for an eye will only make the whole world blind.",
+          "Happiness is when what you think, what you say, and what you do are in harmony.",
+          "Live as if you were to die tomorrow. Learn as if you were to live forever."
+        ]
+      },
+      {
+        "author": "Stephen King",
+        "quotes": [
+          "Get busy living or get busy dying.",
+          "Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.",
+          "Books are a uniquely portable magic.",
+          "The scariest moment is always just before you start.",
+          "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work."
+        ]
+      },
+      {
+        "author": "Nelson Mandela",
+        "quotes": [
+          "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+          "It always seems impossible until it's done.",
+          "Education is the most powerful weapon which you can use to change the world.",
+          "I learned that courage was not the absence of fear, but the triumph over it.",
+          "A winner is a dreamer who never gives up."
+        ]
+      },
+      {
+        "author": "Dr. Seuss",
+        "quotes": [
+          "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+          "Sometimes you will never know the value of a moment until it becomes a memory.",
+          "From there to here, from here to there, funny things are everywhere.",
+          "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+          "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!"
+        ]
+      },
+      {
+        "author": "Mark Twain",
+        "quotes": [
+          "The secret of getting ahead is getting started.",
+          "Kindness is the language which the deaf can hear and the blind can see.",
+          "Age is an issue of mind over matter. If you don't mind, it doesn't matter.",
+          "The man who does not read has no advantage over the man who cannot read.",
+          "Whenever you find yourself on the side of the majority, it is time to pause and reflect."
+        ]
+      }
+    ]
 }
